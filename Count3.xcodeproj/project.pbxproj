@@ -15,6 +15,7 @@
 		8EAA4FAA25D23E86001BADAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EAA4FA825D23E86001BADAC /* LaunchScreen.storyboard */; };
 		8EAA4FB525D23E86001BADAC /* Count3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAA4FB425D23E86001BADAC /* Count3Tests.swift */; };
 		8EAA4FC025D23E86001BADAC /* Count3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAA4FBF25D23E86001BADAC /* Count3UITests.swift */; };
+		8EAA4FD125D24032001BADAC /* haikei2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EAA4FD025D24032001BADAC /* haikei2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8EAA4FBB25D23E86001BADAC /* Count3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Count3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EAA4FBF25D23E86001BADAC /* Count3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Count3UITests.swift; sourceTree = "<group>"; };
 		8EAA4FC125D23E86001BADAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EAA4FD025D24032001BADAC /* haikei2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = haikei2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		8EAA4F9C25D23E84001BADAC /* Count3 */ = {
 			isa = PBXGroup;
 			children = (
+				8EAA4FD025D24032001BADAC /* haikei2.png */,
 				8EAA4F9D25D23E84001BADAC /* AppDelegate.swift */,
 				8EAA4F9F25D23E84001BADAC /* SceneDelegate.swift */,
 				8EAA4FA125D23E84001BADAC /* ViewController.swift */,
@@ -234,6 +237,7 @@
 				8EAA4FAA25D23E86001BADAC /* LaunchScreen.storyboard in Resources */,
 				8EAA4FA725D23E86001BADAC /* Assets.xcassets in Resources */,
 				8EAA4FA525D23E84001BADAC /* Main.storyboard in Resources */,
+				8EAA4FD125D24032001BADAC /* haikei2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
